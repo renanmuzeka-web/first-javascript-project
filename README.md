@@ -17,7 +17,7 @@ O objetivo desse projeto é praticar lógica de programação, manipulação de 
 ## 🇺🇸 English
 
 ### 📖 About the project
-This is my first project developed using JavaScript along with Alura teachers.  
+This is my first project developed in JavaScript with guidance from Alura instructors.
 The goal of this project is to practice programming logic, data manipulation, and user interaction.
 
 ### ⚙️ Features
